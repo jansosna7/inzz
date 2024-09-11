@@ -1,8 +1,11 @@
 # inzz
-pliki do pracy dyplomowej inżynierskiej "Zastosowanie algorytmów uczenia maszynowego do sterowania sygnalizacją świetlną w SmartCity"
-w pliku "instalacja Linux" znajduje się lista poleceń do przygotowania środowiska
-w folderze "do raportu" znajdują się elementy przygotowane tylko do raportu, nie wykorzystano ich podczas badań
-w folderze pliki są zerane materiały z implementacji i badań:
+Pliki do pracy dyplomowej inżynierskiej "Zastosowanie algorytmów uczenia maszynowego do sterowania sygnalizacją świetlną w SmartCity".
+
+W pliku "instalacja Linux" znajduje się lista poleceń do przygotowania środowiska.
+
+W folderze "do raportu" znajdują się elementy przygotowane tylko do raportu, nie wykorzystano ich podczas badań.
+
+W folderze pliki są zerane materiały z implementacji i badań:
 ## "AI-Traffic-Control-System" 
 rozwiazanie alternatywne autor - Sanil Lala, zmodyfikowane i wykorzystane do porównań
 ## arch
