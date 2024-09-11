@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="triple_no_lights.net.xml"/>
+        <route-files value="triple_3.rou.xml"/>
+    </input>
+
+	<output>
+        <summary-output value="control_summaries\summary_triple_no_lights_1.xml"/>
+	<tripinfo-output value="control_summaries\tripinfos_triple_no_lights_1.xml"/>
+    </output>
+</configuration>

@@ -1,0 +1,33 @@
+conn i node del prob źle
+inital, conn/node add/del do powtórki
+
+acctivation 0.03,0.1,0.3
+aggregation_mutate_rate przesunąć na większe
+bias init stdev przesunąć na większe
+bias max value rozszerzyć
+bias mutate power 0.5,1,2
+bias mutate rate bez 0.3 = 0.4,0.5,0.6
+bias replace rate 0.1,0.2,0.3,0.4
+comp disjoint przesunąć na mniejsze
+compatibility threshold 12
+comp weight przesunąć na większe
+elitism przesunąć na większe
+enabled mutate rate przesunąć na większe
+espilon przesunąć na większe, 0.05,0.1,0.2
+harsh result przsunąć na większe
+harsh time przesunąć na mniejsze
+partial direct raczej 0 powtórzyć
+max stagantion przesunąć na mniejsze
+min species size przesunąć na mniejsze
+response init stdev 1
+response max value 5
+response mutate power przesunąć na mniejsze
+response mutate rate przesunąć na większe
+response replace rate 0.2
+species elitism rozszerzyć 2,4,6
+survival threshold 0.4,0.5,0.6
+weight init stdev 6 lub 7
+weight max value rozszerzyć
+weight mutate power mniejsze
+weight mutate rate większe
+weight replace rate 0.4,0.5,0.6

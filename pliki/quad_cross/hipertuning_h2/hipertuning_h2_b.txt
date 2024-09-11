@@ -1,0 +1,2 @@
+-1369.77,19956,VehicleNumberAndHaltingNumber,100_pop_180_data_VehicleNumberAndHaltingNumber,0.1,1.7,1.5,partial_direct 0.5,0.5,0.6,0.7,0.9,0.3,0.99,0.03,0.03,0.1,6.666666666666667,10,1,0.5,0.1,1.6666666666666667,5,2,0.7,0.1,10.0,20,0.5,0.7,0.7,10,20,3,1,0.66,9
+-1369.79,20172,VehicleNumberAndHaltingNumber,101_pop_180_data_VehicleNumberAndHaltingNumber,0.01,1.7,1,partial_direct 0,0.4,0.5,0.3,1.1,0.6,0.99,0.03,0.03,0,33.333333333333336,100,0.5,0.5,0.3,1.0,5,4,0.7,0.3,5.0,10,0.5,0.9,0.5,13,20,2,1,0.66,9

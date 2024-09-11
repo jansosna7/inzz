@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="single_no_lights.net.xml"/>
+        <route-files value="single_1.rou.xml"/>
+		<device.emissions.probability value = "1.0"/>
+    </input>
+
+	<output>
+		<tripinfo-output value="control_summaries\tripinfos_emissions_no_lights_1.xml"/>
+		<emission-output value="control_summaries\emission_no_lights_1.xml"/>
+    </output>
+</configuration>

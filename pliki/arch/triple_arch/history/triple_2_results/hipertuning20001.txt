@@ -1,0 +1,8 @@
+[Errno 32] Broken pipe
+0,20001,9
+[Errno 32] Broken pipe
+0,20001,11
+[Errno 32] Broken pipe
+0,20001,12
+[Errno 32] Broken pipe
+0,20001,18

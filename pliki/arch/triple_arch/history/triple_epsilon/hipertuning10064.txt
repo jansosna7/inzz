@@ -1,0 +1,2 @@
+[Errno 32] Broken pipe
+0,10064,0

@@ -1,0 +1,15 @@
+<configuration>
+
+ <input>
+	 <net-file value="project_static.net.xml"/>
+	 <route-files value="project_5.rou.xml"/>
+	<additional-files value="project.add.xml"/>
+ </input>
+<output>
+    <summary-output value="summaries\\summary_project_part.xml"/>
+	<tripinfo-output value="summaries\\tripinfos_project_part.xml"/>
+</output>
+<report>
+        <no-step-log value="true"/>
+    </report>
+</configuration>

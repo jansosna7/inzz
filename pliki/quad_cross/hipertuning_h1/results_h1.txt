@@ -1,0 +1,10 @@
+-1019.99248,16778,VehicleNumber,4_pop_175_data_VehicleNumber
+-1043.1424499999998,23019,VehicleNumberAndHaltingNumber,4_pop_175_data_VehicleNumberAndHaltingNumber
+-818.32242,3081,VehicleNumber,2_pop_175_data_VehicleNumber
+-1285.05,3339,VehicleNumber,3_pop_175_data_VehicleNumber
+-1053.78225,4372,VehicleNumberAndHaltingNumber,1_pop_175_data_VehicleNumberAndHaltingNumber
+-1400.03,4583,VehicleNumberAndHaltingNumber,2_pop_175_data_VehicleNumberAndHaltingNumber
+-619.35301,6091,VehicleNumberAndHaltingNumber,3_pop_175_data_VehicleNumberAndHaltingNumber
+-1288.71,6310,All,1_pop_175_data_All
+-1033.8626900000002,6251,All,2_pop_175_data_All
+-967.4423300000001,6075,All,3_pop_175_data_All

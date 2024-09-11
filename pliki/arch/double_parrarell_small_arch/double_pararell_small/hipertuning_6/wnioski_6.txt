@@ -1,0 +1,35 @@
+Dana			:	po 25 punktach					po 31 punktach
+aggregation mutate rate	:	może 0.1					:	0.1
+bias divider		:	5						:	5
+bias init stdev		:	jak najmniejsze					:	jak najmniejsze
+bias max value		:	10						:	ciężko, excel mówi że równo
+bias mutate power	:	1?						:	1?
+bias mutate rate	:	0.3 raczej					:	napewno nie 0.66
+bias replace rate	:	0.4?						:	0.1 albo 0.4
+compatibility threshold	:	średnio zbliżone dla wszystkich			:	może 4, dodać 3, ciężko, mały rozrzut (brakuje 8)
+comp disjoint coe	:	średnio zbliżone dla wszystkich			:	ciężko
+comp weight coe		:	średnio zbliżone dla wszystkich			:	ciężko
+conn_add_prob		:	0.6						:	> niż 0.4
+conn_del_prob		:	0.55						:	(0.4,0.6)
+elitism			:	0						:	nierówny podział
+max stagntion		:	między 20 a 35, zależy od pop_size		:	między 20 a 35, zależy od pop_size
+min_size		:	18, im więcej tym lepiej, zależy od pop_size	:	18?, im więcej tym lepiej, zależy od pop_size
+node_add_prob		:	nie równy podział				:	nierówny podział
+node_del_prob		:	nie rowny, raczej im mniej tym lepiej		:	może 0.3 lub 0.05
+pop_size		:	raczej 100					:	średnio 100 lepsze, ale 150 ma dwa najlepsze
+response divider	:	10, może więcej					:	10, może więcej
+response init stdev	:	raczej mniej, zależne				:	ciężko
+response max value	:	może 8.5					:	zrobić [6.5,7.5,8.5,9.5]
+response mutate power	:	nie równy podział, zależne			:	raczej więcej, nierówny
+response mutate rate	:	0.6 lub 0.7					:	> 0.4
+response replace rate	:	0.1, trochę mało danych				:	nierówny
+survival		:	0.66, zrobic 0.6,0.7,0.8			:	na pewno nie 0.33, zrobić 0.5 i 0.7
+weight divider		:	1 albo 10 zrobić dalej i więcej			:	raczej 10
+weight init stdev	:	może im więcej tym lepiej			:	jak najmniejsze
+weight max value	:	ciężko						:	ciężko
+weight mutate power	:	może 1						:	może 1
+weight mutate rate	:	0.8						:	0.8
+weight replace rate	:	0.4						:	> 0.1
+
+
+

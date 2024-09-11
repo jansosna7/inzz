@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-07-16 18:36:14 by Eclipse SUMO netedit Version 1.17.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- Routes -->
+    <route id="r_0" edges="A5B5 B5C5 C5D5 D5E5 E5F5"/>
+    <route id="r_1" edges="G5F5 F5E5 E5D5 D5C5 C5B5"/>
+    <route id="r_10" edges="C4C3 C3C2 C2C1"/>
+    <route id="r_11" edges="C0C1 C1C2 C2C3"/>
+    <route id="r_12" edges="D4D3 D3D2 D2D1"/>
+    <route id="r_13" edges="D0D1 D1D2 D2D3"/>
+    <route id="r_14" edges="E4E3 E3E2 E2E1"/>
+    <route id="r_15" edges="E0E1 E1E2 E2E3"/>
+    <route id="r_2" edges="C7C6 C6C5 C5C4"/>
+    <route id="r_3" edges="C3C4 C4C5 C5C6"/>
+    <route id="r_4" edges="D7D6 D6D5 D5D4"/>
+    <route id="r_5" edges="D3D4 D4D5 D5D6"/>
+    <route id="r_6" edges="E7E6 E6E5 E5E4"/>
+    <route id="r_7" edges="E3E4 E4E5 E5E6"/>
+    <route id="r_8" edges="A2B2 B2C2 C2D2 D2E2 E2F2"/>
+    <route id="r_9" edges="G2F2 F2E2 E2D2 D2C2 C2B2"/>
+	
+   <flow id="f_0_0" begin="0.00" end="180.00" probability="0.5" route="r_0"/>
+   <flow id="f_0_1" begin="0.00" end="180.00" probability="0.5" route="r_1"/>
+   <flow id="f_0_2" begin="0.00" end="180.00" probability="0.15" route="r_2"/>
+   <flow id="f_0_3" begin="0.00" end="180.00" probability="0.15" route="r_3"/>
+   <flow id="f_0_4" begin="0.00" end="180.00" probability="0.15" route="r_4"/>
+   <flow id="f_0_5" begin="0.00" end="180.00" probability="0.15" route="r_5"/>
+   <flow id="f_0_6" begin="0.00" end="180.00" probability="0.15" route="r_6"/>
+   <flow id="f_0_7" begin="0.00" end="180.00" probability="0.15" route="r_7"/>
+   <flow id="f_0_8" begin="0.00" end="160.00" probability="0.1" route="r_8"/>
+   <flow id="f_0_9" begin="0.00" end="160.00" probability="0.1" route="r_9"/>
+   <flow id="f_0_10" begin="0.00" end="160.00" probability="0.4" route="r_10"/>
+   <flow id="f_0_11" begin="0.00" end="160.00" probability="0.4" route="r_11"/>
+   <flow id="f_0_12" begin="0.00" end="160.00" probability="0.4" route="r_12"/>
+   <flow id="f_0_13" begin="0.00" end="160.00" probability="0.4" route="r_13"/>
+   <flow id="f_0_14" begin="0.00" end="160.00" probability="0.4" route="r_14"/>
+   <flow id="f_0_15" begin="0.00" end="160.00" probability="0.4" route="r_15"/>
+</routes>

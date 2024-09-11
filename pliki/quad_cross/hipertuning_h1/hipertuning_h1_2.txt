@@ -1,0 +1,2 @@
+-1019.99248,16778,VehicleNumber,4_pop_175_data_VehicleNumber
+-1043.1424499999998,23019,VehicleNumberAndHaltingNumber,4_pop_175_data_VehicleNumberAndHaltingNumber

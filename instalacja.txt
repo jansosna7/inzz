@@ -1,0 +1,4 @@
+sudo apt update
+sudo install sumo sumo-tools sumo-doc python3-pip graphviz
+export SUMO_HOME=/usr/share/sumo/
+pip install keras matplotlib graphviz tensorflow neat-python sumolib traci (--break-system-packages)

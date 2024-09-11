@@ -1,0 +1,55 @@
+<routes>
+            <vType accel="1.0" decel="4.5" id="standard_car" length="5.0" minGap="2.5" maxSpeed="25" sigma="0.5" />
+
+
+			
+			<route id="r_0" edges="1i 2o"/>
+            <route id="r_1" edges="4i 3o"/>
+            <route id="r_2" edges="2i 1o"/>
+            <route id="r_3" edges="3i 4o"/>
+    
+	<flow id="f_0_0" begin="0.00" end="100.00" probability="0.15" route="r_0"/>
+	<flow id="f_0_1" begin="20.00" end="100.00" probability="0.15" route="r_1"/>
+	<flow id="f_0_2" begin="40.00" end="100.00" probability="0.15" route="r_2"/>
+	<flow id="f_0_3" begin="80.00" end="100.00" probability="0.15" route="r_3"/>
+
+	<flow id="f_1_0" begin="150.00" end="200.00" probability="0.1" route="r_0"/>
+	<flow id="f_1_1" begin="150.00" end="200.00" probability="0.15" route="r_1"/>
+	<flow id="f_1_2" begin="150.00" end="200.00" probability="0.2" route="r_2"/>
+	<flow id="f_1_3" begin="150.00" end="200.00" probability="0.15" route="r_3"/>
+	
+	<flow id="f_2_0" begin="250.00" end="300.00" probability="0.15" route="r_0"/>
+	<flow id="f_2_1" begin="250.00" end="300.00" probability="0.1" route="r_1"/>
+	<flow id="f_2_2" begin="250.00" end="300.00" probability="0.15" route="r_2"/>
+	<flow id="f_2_3" begin="250.00" end="300.00" probability="0.2" route="r_3"/>
+	
+	<flow id="f_3_0" begin="350.00" end="400.00" probability="0.2" route="r_0"/>
+	<flow id="f_3_1" begin="350.00" end="400.00" probability="0.15" route="r_1"/>
+	<flow id="f_3_2" begin="350.00" end="400.00" probability="0.1" route="r_2"/>
+	<flow id="f_3_3" begin="350.00" end="400.00" probability="0.15" route="r_3"/>
+	
+	<flow id="f_4_0" begin="450.00" end="500.00" probability="0.15" route="r_0"/>
+	<flow id="f_4_1" begin="450.00" end="500.00" probability="0.2" route="r_1"/>
+	<flow id="f_4_2" begin="450.00" end="500.00" probability="0.15" route="r_2"/>
+	<flow id="f_4_3" begin="450.00" end="500.00" probability="0.1" route="r_3"/>
+	
+	<flow id="f_5_0" begin="550.00" end="700.00" probability="0.15" route="r_0"/>
+	<flow id="f_5_1" begin="550.00" end="700.00" probability="0.15" route="r_1"/>
+	<flow id="f_5_2" begin="550.00" end="700.00" probability="0.15" route="r_2"/>
+	<flow id="f_5_3" begin="550.00" end="700.00" probability="0.15" route="r_3"/>
+	
+	<flow id="f_6_0" begin="710.00" end="800.00" probability="0.2" route="r_0"/>
+	<flow id="f_6_1" begin="710.00" end="800.00" probability="0.2" route="r_1"/>
+	<flow id="f_6_2" begin="710.00" end="800.00" probability="0.2" route="r_2"/>
+	<flow id="f_6_3" begin="710.00" end="800.00" probability="0.2" route="r_3"/>
+	
+	<flow id="f_7_0" begin="850.00" end="900.00" probability="0.2" route="r_0"/>
+	<flow id="f_7_1" begin="850.00" end="900.00" probability="0.2" route="r_1"/>
+	<flow id="f_7_2" begin="950.00" end="1000.00" probability="0.2" route="r_2"/>
+	<flow id="f_7_3" begin="950.00" end="1000.00" probability="0.2" route="r_3"/>
+	
+	<flow id="f_8_0" begin="1000.00" end="1010.00" probability="0.3" route="r_0"/>
+	<flow id="f_8_1" begin="1050.00" end="1060.00" probability="0.3" route="r_1"/>
+	<flow id="f_8_2" begin="1110.00" end="1120.00" probability="0.3" route="r_2"/>
+	<flow id="f_8_3" begin="1170.00" end="1180.00" probability="0.3" route="r_3"/>
+</routes>

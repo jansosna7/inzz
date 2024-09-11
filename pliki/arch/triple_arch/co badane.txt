@@ -1,0 +1,7 @@
+epsilon - 0.05
+harsh time - 1.8
+harsh result - 1.25
+data value ? (All albo vh_hn)
+ilość num
+hiperparamtery config neat
+learningStepCount ? (na razie 1)

@@ -1,0 +1,5 @@
+-163.47,5162,211_data_VehicleNumberAndHaltingNumber_stepThreshold_3000_gen_100
+-162.99,5284,212_data_VehicleNumberAndHaltingNumber_stepThreshold_3000_gen_100
+-162.74,5361,213_data_VehicleNumberAndHaltingNumber_stepThreshold_3000_gen_100
+-162.74,5177,214_data_VehicleNumberAndHaltingNumber_stepThreshold_3000_gen_100
+-162.67,5721,211_data_VehicleNumberAndHaltingNumber_stepThreshold_3000_gen_100

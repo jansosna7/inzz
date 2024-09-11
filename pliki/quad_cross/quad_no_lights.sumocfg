@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="quad_no_lights.net.xml"/>
+        <route-files value="quad_3.rou.xml"/>
+    </input>
+
+	<output>
+        <summary-output value="control_summaries\summary_quad_no_lights_1.xml"/>
+	<tripinfo-output value="control_summaries\tripinfos_quad_no_lights_1.xml"/>
+    </output>
+</configuration>

@@ -1,0 +1,1 @@
+-980.55266,16780,VehicleNumberAndHaltingNumber,5_pop_200_data_VehicleNumberAndHaltingNumber

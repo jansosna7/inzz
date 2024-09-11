@@ -1,0 +1,21 @@
+bias_max value  	100 albo więcej
+bias_mutate_power 	4 albo więcej
+bias mutate_rate 	> 0.4 (0.5,0.6,0.7)
+comp_disjoint_coe 	0.5 lub 0.6
+comp_threshold 		12 lub 15
+comp_weight		0.8
+conn_add		0.7
+elitism 		1
+feed_forward		dalej
+initial_conn		raczej partial
+max_stagn		15
+min_species_size	dalej może 15 zależy_1
+node_add_prob		0.4
+response mutate_power	2
+response_mutate_rate	0.3
+species_elitism		2 lub 3 zależy_1
+survival threshold	0.33 zależy_1
+weight_mutate_power	1 zależy_2 
+weight_mutate_rate	0.9 zależy_2
+weight_replace_rate	0.5 lub 0.6
+

@@ -1,0 +1,71 @@
+comp_threshold dać więcej
+
+
+activation_mutate_rate 0 najgorzej, 0.03 lepiej niż 0.3
+aggregation_mutate_rate, ciężko stwierdzić, 0.3 najgorzej, zrobić 0, 0.05, 0.1
+bias_divider: 1,5 albo 2
+bias_init_stdev: cieżko stwierdzić
+bias_max_value: 100 najgorzej
+bias_mutate_power: ciężko stweirdzić, nie równy podział
+bias_mutate_rate: cieżko stweirdzić
+bias_replace_rate: ciężko stwierdzić, nierówny podział
+comp_disjo_coe: 0.2 najgorzej, 0.5 chyba lepiej, porónwać z comp_weig_coe
+comp_thres: im większy tym lepszy chyba, większe wartości
+comp_weig_coe: 0.6 najgorsze, sprawdzić
+conn_add_prob: równo, porónać
+conn_del_prob: równo, porównać
+elitism: 1 albo 0
+enabled_mutate_rate: 0.1
+max_stagnation: 22 najgorsze, dalej sprawdzać, zależy od pop_size
+min_species_size: 14,15,16 porównać z pop_size
+node_add_prob: raczej mniejsze 0.2 może porównać
+node_del_prob: raczej mniejsze 0.16 może porównać
+pop_size: 200 najgorsze, przyjmuje 100
+response_divider: może 5
+response_init_stdec: nie widać
+response_max_value: nie widać, przyjmuje 9 (kiedyś sprawdzić)
+response_mtate_power: więcej lepiej
+species_elitism: 3
+survival_threshold: 0.5, przyjmuje, ale spradzać dalej
+weight_max_value: 1 najgorsze
+weight_replace_rate: raczej 0.3
+
+
+
+z pairplota:
+con_add_prob i con_del_prob > 0.2
+node_add i node_del < 0.55
+
+
+po odfiltrowaniu części: (mało danych)
+activation_mutate_rate		: raczej 0.3
+aggregation_mutate_rate		: 
+bias_divaider			:
+bias_init_stdev 		: raczej nie 50
+bias_max_value			: raczej < 80, może 10
+bias_mutate_power		: może 5
+bias_mutate_rate		: nie widać
+bias_replace_rate		: 
+comp_disjont_coefficient	: 0.5 (ale zależy od weight)
+comp_threshold			: raczej więcej, poszerzyć
+comp_weight_coefficient		: może 0.6 ale nie wiadomo
+conn_add_prob			: zależy
+conn_del_prob			: zależy raczej więcej
+elitism				: raczej 1
+enabled_mutate_rate		: to już to samo
+max_stagnation			: 22 najgorzej wrzucić
+min_species_size		: 15 lub 17, zrobić 14,15,16
+node_add_prob			: raczej mniej
+node_del_prob			: raczej mniej
+pop_size			: 
+response_divider		: 
+response_init_stdev		: może 2-3
+response_max_value		: mało danych
+response_mutate_power		: może więcej niż mniej
+species_elitism			: rczej 3
+survival_threshold		: może 0.66
+
+
+
+
+

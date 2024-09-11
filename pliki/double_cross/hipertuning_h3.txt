@@ -1,0 +1,9 @@
+-708.69173,4074,VehicleNumber,3_pop_200_data_VehicleNumber_ht_2_hr_1.5_gen_100.0
+-700.6716799999999,3979,VehicleNumber,4_pop_200_data_VehicleNumber_ht_2_hr_1.5_gen_100.0
+-711.12173,3891,VehicleNumber,5_pop_200_data_VehicleNumber_ht_2_hr_1.5_gen_100.0
+-705.88171,5195,VehicleNumberAndHaltingNumber,3_pop_200_data_VehicleNumberAndHaltingNumber_ht_2_hr_1.5_gen_100.0
+-705.6817100000001,5420,VehicleNumberAndHaltingNumber,4_pop_200_data_VehicleNumberAndHaltingNumber_ht_2_hr_1.5_gen_100.0
+-706.83171,5442,VehicleNumberAndHaltingNumber,5_pop_200_data_VehicleNumberAndHaltingNumber_ht_2_hr_1.5_gen_100.0
+-695.2116900000001,6830,All,3_pop_200_data_All_ht_2_hr_1.5_gen_100.0
+-718.89181,7094,All,4_pop_200_data_All_ht_2_hr_1.5_gen_100.0
+-716.84172,6697,All,5_pop_200_data_All_ht_2_hr_1.5_gen_100.0

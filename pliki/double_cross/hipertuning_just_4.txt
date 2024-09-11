@@ -1,0 +1,1 @@
+-303.61,63013,VehicleNumberAndHaltingNumber,4444_pop_100_data_VehicleNumberAndHaltingNumber_gen_200

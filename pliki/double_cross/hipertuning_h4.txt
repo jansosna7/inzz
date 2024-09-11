@@ -1,0 +1,6 @@
+-704.59172,19619,All,401_pop_200_data_All_gen_300
+-693.9917,21188,All,402_pop_200_data_All_gen_300
+-694.95168,16685,VehicleNumberAndHaltingNumber,401_pop_200_data_VehicleNumberAndHaltingNumber_gen_300
+-699.1716799999999,16113,VehicleNumberAndHaltingNumber,402_pop_200_data_VehicleNumberAndHaltingNumber_gen_300
+-704.3016799999999,12470,VehicleNumber,401_pop_200_data_VehicleNumber_gen_300
+-706.03172,11794,VehicleNumber,402_pop_200_data_VehicleNumber_gen_300

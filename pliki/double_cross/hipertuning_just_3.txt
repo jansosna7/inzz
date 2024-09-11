@@ -1,0 +1,2 @@
+-203.94,9179,VehicleNumberAndHaltingNumber,111_pop_100_data_VehicleNumberAndHaltingNumber_gen_100
+-206.15,43661,VehicleNumberAndHaltingNumber,111_pop_200_data_VehicleNumberAndHaltingNumber_gen_300

@@ -1,0 +1,6 @@
+-712.13176,2483,VehicleNumber,2_pop_100_data_VehicleNumber_ht_2_hr_1.5_gen_100.0
+-723.48168,3455,VehicleNumberAndHaltingNumber,2_pop_100_data_VehicleNumberAndHaltingNumber_ht_2_hr_1.5_gen_100.0
+-718.34185,4055,All,2_pop_100_data_All_ht_2_hr_1.5_gen_100.0
+-722.66153,1988,VehicleNumber,2_pop_200_data_VehicleNumber_ht_2_hr_1.5_gen_50.0
+-713.39177,2673,VehicleNumberAndHaltingNumber,2_pop_200_data_VehicleNumberAndHaltingNumber_ht_2_hr_1.5_gen_50.0
+-718.1618199999999,3288,All,2_pop_200_data_All_ht_2_hr_1.5_gen_50.0

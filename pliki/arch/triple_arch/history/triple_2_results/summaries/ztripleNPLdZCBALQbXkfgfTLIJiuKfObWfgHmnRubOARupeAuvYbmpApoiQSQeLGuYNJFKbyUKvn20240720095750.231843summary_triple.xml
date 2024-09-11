@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-07-20 09:57:50 by Eclipse SUMO sumo Version 1.18.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="triple_neat.net.xml"/>
+        <route-files value="triple_1.rou.xml"/>
+    </input>
+
+    <output>
+        <summary-output value="summaries/ztripleNPLdZCBALQbXkfgfTLIJiuKfObWfgHmnRubOARupeAuvYbmpApoiQSQeLGuYNJFKbyUKvn20240720095750.231843summary_triple.xml"/>
+    </output>
+
+    <processing>
+        <time-to-teleport value="-1"/>
+    </processing>
+
+    <traci_server>
+        <remote-port value="36355"/>
+    </traci_server>
+
+</configuration>
+-->
+
+<summary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/summary_file.xsd">
+</summary>

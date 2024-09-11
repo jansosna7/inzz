@@ -1,0 +1,73 @@
+uwagi po hiper4
+
+weight replace rate między 0,3 a 0,4
+weight mutate rate między 0,6 a 0,8
+weight mutate power - zależy od stdev, raczej większe
+weight max value wprowadzić szum, raczej 25 niż 2, może zależy od bias i response
+weight init sted - zależy od max value, raczej divider potrzebny
+
+weight compatibility coeafficeint nie wiadomo, współzależny z disjonit i comp thresh przeprowadzić oddzielnie
+
+survival thresold moze 0,25 lub 0,66 wprowadzić szum więcej danych potrzeba, może zależy od pop_size
+species elitism, może 0, może zależy od pop_size, min_spieces_size
+
+response replace rate raczej nie 0.5
+response mutate rate trochę za mało danych, może 0.5
+response mutate power zależy od stdev raczej większe
+response max value, raczej 10, dać szum
+response init stdev - zależy od max value, raczej divider potrzebny
+
+pop_size raczej 100, ale trzeba wydłużyć ewolucje
+
+node add prob może 0.05 zależy od del zależy od hidden
+node delete prob raczej większe, ciężko poweidzieć zależy od hidden
+
+min speceis size raczej mniejsze, odrzucam 30
+max stagnation nie 10, raczej więcej zależy od generations
+
+hidden 0
+
+enabled mutate rate raczej mniej nie 0,33 może 0.10
+
+elitism ciężko powiedzieć, może 16
+
+disjoint comp coeff ciężko
+
+conn delete prob zależy od add od hidden
+conn add prob ciężko od hidden
+
+comp threshold raczej więcej, ale zależy od wielu raczej nie 3,5 ani nie 4
+
+bias replace rate raczej nie 0.3, więcej
+bias mutate rate większe od 0.1
+bias max value nie wiadomo dać szum, nie 1
+bias init stdev nie widać
+
+
+pop_size / min_species_size może 12-13 sprawdzić
+
+comp_threshold * min_species_size minimum 100 sprawdzić
+comp_threshold / min_species_size maximym w 0.4 sprawdzić
+
+max_stagnation * elitism
+
+min_speceis_size * pop size
+min_speceis_size */ comp_threshold
+min_speceis_size / max_stagnation
+
+conn_add / node_add
+
+conn_del / pop_size
+conn_del * conn_add
+node_add / node_del 10 gorsze, usuwam
+
+weight_coe / disjoint_coe
+bias_max_balue */ response_max_value
+
+bias_mutate_rate */ pop_size
+bias_mutate_rate */ comp_thre
+bias_mutate_rate */ max_stagn
+
+bias_replace_rate * bias_mutate_rate
+
+weight_max_value */ max_stag

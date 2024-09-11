@@ -1,0 +1,4 @@
+z wykresów:
+epsilon: 0.05
+harsh_result: 1.25 (ale być może więcej)
+harsh_time: 1.8

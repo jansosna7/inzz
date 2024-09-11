@@ -1,0 +1,29 @@
+bias init stdev		10 lepsze
+bias max value		50 lepsze im wiecej tym lepiej można spróbować sprawdzać większe
+bias mutate power	nierówny podział średnia równa; 0.5 z excela daje lepsze
+bias mutate rate	0.3; 0.5 z excela lepsze
+bias replace rate	0.4; 0.1 z excela lepsze
+comp_disjont_coe	może 0.3 zależne
+comp_threshold		może 8 zależne
+comp_weight_coe		moze 0.8 zależne
+conn_add_prob		0.7 
+conn_del_prob		0.63
+conn_diff		0.9
+elitism			nie 0, może 1 może 2
+max_stagnation		nie 18, 25 albo 32
+min_species_size	zróbmy 15
+node_add_prob		równo, biorę 0.4
+node_del_prob		0.36
+node_diff		0.9
+reposne_divider		5
+response_init_stdev	może im większe tym lepsze
+response_max_value	7
+response_mutate_power	2
+response_mutate_rate	0.5
+response_replace_rate	ciężko, zostawiam 0.1
+survival_threshold 	0.5
+weight_divider		20
+weight_init_stdev	może 1.5
+weight_max_value	20
+weight_mutate_power	1
+weight_replace_rate	0.5

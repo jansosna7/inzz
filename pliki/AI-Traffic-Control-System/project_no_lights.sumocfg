@@ -1,0 +1,16 @@
+<configuration>
+
+ <input>
+	 <net-file value="project_no_lights.net.xml"/>
+	 <route-files value="project_1.rou.xml"/>
+ </input>
+ <report>
+	 <verbose value="true"/>
+	 <no-step-log value="true"/>
+ </report>
+ <output>
+        <summary-output value="control_summaries\summary_project_no_lights.xml"/>
+		<tripinfo-output value="control_summaries\tripinfos_project_no_lights.xml"/>
+    </output>
+
+</configuration>
