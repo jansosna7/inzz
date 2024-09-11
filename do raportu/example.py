@@ -19,10 +19,8 @@ import time
 import uuid
 import traceback
 
-
 def eval_genome(genome, config):
     return random.randint(1,5)
-
 
 def create():
     config_file = 'example.cfg'
@@ -37,9 +35,6 @@ def create():
     winner = pop.run(pe.evaluate, 2)
     visualize.draw_net(config, winner, view=False, filename="drawing_example")
        
-                    
-
-
 if __name__ == "__main__":
     os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
     if 'SUMO_HOME' in os.environ:
