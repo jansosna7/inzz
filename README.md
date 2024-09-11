@@ -20,7 +20,7 @@ pliki z układu potrójnego
 pliki z układu 2x2
 
 # Informacje dodatkowe
-#Foldery
+##Foldery
 
 "control_sumaries" - raporty z prób kontrolnych
 
@@ -30,3 +30,5 @@ pliki z układu 2x2
 
 "raw_result <numer iteracji badań>.txt" - wyniki danej iteracji
 
+##Licencja
+Poza "AI-Traffic-Control-System" materiały są udostępnione na licencji open-source i można je swobodnie używać, modyfikować oraz rozpowszechniać. Mile widziane będzie właściwe oznaczenie źródła i autora.
