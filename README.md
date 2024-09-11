@@ -16,8 +16,14 @@ pliki z układu potrójnego
 # quad_cross
 pliki z układu 2x2
 
-## elementy
+## Informacje dodatkowe
+#Foldery
+
 "control_sumaries" - raporty z prób kontrolnych
+
 "results <numer iteracji badań>" - rezultaty badań danej iteracji
+
 "testing <numer iteracji badań>" - weryfikacja rezultatów danej iteracji
+
 "raw_result <numer iteracji badań>.txt" - wyniki danej iteracji
+
