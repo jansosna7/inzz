@@ -1,22 +1,22 @@
-## inzz
+# inzz
 pliki do pracy dyplomowej inżynierskiej "Zastosowanie algorytmów uczenia maszynowego do sterowania sygnalizacją świetlną w SmartCity"
 w pliku "instalacja Linux" znajduje się lista poleceń do przygotowania środowiska
 w folderze "do raportu" znajdują się elementy przygotowane tylko do raportu, nie wykorzystano ich podczas badań
 w folderze pliki są zerane materiały z implementacji i badań:
-# "AI-Traffic-Control-System" 
+## "AI-Traffic-Control-System" 
 rozwiazanie alternatywne autor - Sanil Lala, zmodyfikowane i wykorzystane do porównań
-# arch
+## arch
 archiwum starszych plików
-# single_cross
+## single_cross
 pliki z układu pojedynczego
-# double_cross
+## double_cross
 pliki z układu podwójnego
-# triple_cross
+## triple_cross
 pliki z układu potrójnego
-# quad_cross
+## quad_cross
 pliki z układu 2x2
 
-## Informacje dodatkowe
+# Informacje dodatkowe
 #Foldery
 
 "control_sumaries" - raporty z prób kontrolnych
